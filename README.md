@@ -18,4 +18,4 @@ Just click here: https://t.me/F3Timetable_bot and type in /start to start the bo
 - Easy to use and minimalist Look
 - View your different classes of all day in one click
 - Works 24*7 and 365 days
-- Keeps Updates with your college's timetable
+- Keep updated with your college's timetable
