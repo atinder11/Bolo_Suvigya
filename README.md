@@ -13,9 +13,15 @@ Just click here: https://t.me/F3Timetable_bot and type in /start to start the bo
 
 
 
+
+
 # ✨Features
 
 - Easy to use and minimalist Look
 - View your different classes of all day in one click
 - Works 24*7 and 365 days
 - Keep updated with your college's timetable
+
+
+# ✨Prerequisites
+- Telegram Install in your device
