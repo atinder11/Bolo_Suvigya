@@ -1,5 +1,5 @@
 # 🐱‍👤F3 Timetable bot
-Bolo Suvigya Bot is a Telegram Bot built to help students stay tuned  with their college's timetable. Its can be used to stay updated with college timetable and never miss an important lecture or class.
+F3 Timetable Bot is a Telegram Bot built to help students stay tuned  with their college's timetable. Its can be used to stay updated with college timetable and never miss an important lecture or class.
 
 
 # ✨Get Started
